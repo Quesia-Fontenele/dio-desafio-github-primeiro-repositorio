@@ -1,0 +1,9 @@
+Olá, esse é meu primeiro repositorio do curso de QA da DIO. 
+
+
+
+Iniciei criando uma pasta na minha máquina, onde clonei o meu
+
+primeiro diretorio do GitHub para o Git através do Git Clone. Em seguida criei este arquivo, commitei e em seguida subi para o gitHub através do
+
+comando Git Push. 
